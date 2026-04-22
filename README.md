@@ -1,20 +1,18 @@
-# 🧠 Lógica de Programação I: Fundamentos e Geometria
+# Lógica de Programação I: Fundamentos e Geometria
 
-Resolução de desafios básicos para prática de manipulação de dados e cálculos matemáticos iniciais.
+Primeiros passos na programação utilizando **Portugol**, focando em manipulação de variáveis e cálculos matemáticos básicos.
 
-## 📋 Desafios Resolvidos
-* **Variáveis e Atribuição:** Manipulação e exibição de valores fixos (Ex: Nome do carro).
-* **Entrada de Dados:** Interação com o utilizador para captura de nomes e idades.
-* **Cálculo de Áreas Planas:** Implementação de fórmulas para:
-    * Retângulo e Quadrado
-    * Losango e Trapézio
-    * Triângulo e Círculo
+## Desafios Resolvidos
+* **Variáveis e Exibição:** Atribuição de valores e saída de dados no console.
+* **Interação com Usuário:** Captura de nomes e idades para exibição de mensagens dinâmicas.
+* **Cálculo de Áreas Planas:** Desenvolvimento de algoritmos para calcular a área de:
+    * Retângulo, Quadrado, Losango, Trapézio, Triângulo e Círculo.
 
-## 🛠️ Conceitos Técnicos
-* **I/O (Input/Output):** Captura de dados via console e exibição formatada.
-* **Tipagem de Dados:** Uso de `String`, `Int` e `Double`.
-* **Operadores Aritméticos:** Tradução de fórmulas matemáticas para lógica de código.
+## Conceitos Técnicos
+* **Tipos de Dados:** Uso de `cadeia`, `inteiro` e `real`.
+* **Entrada e Saída:** Comandos `leia()` e `escreva()`.
+* **Expressões Aritméticas:** Implementação de fórmulas geométricas.
 
-## 🚀 Tecnologias
-* **Linguagem:** Kotlin
-* **Paradigma:** Imperativo / Estruturado
+## Tecnologias
+* **Linguagem:** Portugol
+* **Ambiente:** Portugol Studio

@@ -1,11 +1,23 @@
-Exercícios de lógica de programação 1
+Lógica de Programação I: Fundamentos e Geometria
+Resolução de desafios básicos para prática de manipulação de dados e cálculos matemáticos.
 
-1- Escreva um programa que crie uma variável chamada "nome_do_carro" e atribua-a um valor "Fusca". Exiba-a ao usuário.
+Desafios Resolvidos
+Variáveis e Atribuição: Criação e exibição de valores fixos.
 
-2- Escreva um programa em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
+Entrada de Dados: Interação com o usuário para capturar nomes e idades.
 
-3- Escreva um programa em que o usuário informe o seu nome e em seguida o programa perguntará a idade do usuário. Agora o programa deve exibir a mensagem "Olá, [NomeDoUsuario], sua idade é [idade]".
+Cálculo de Áreas Planas: Implementação de fórmulas geométricas para:
 
-4- Considerando a figura abaixo, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável.
-Áreas de Figuras Planas
+Retângulo, Quadrado, Losango, Trapézio, Triângulo e Círculo.
 
+Conceitos Técnicos
+Input/Output: Captura e exibição de dados via console.
+
+Tipagem: Uso de Strings, Ints e Floats/Doubles.
+
+Matemática Computacional: Tradução de fórmulas geométricas em código.
+
+Tecnologias
+Linguagem: Kotlin
+
+Paradigma: Imperativo / Estruturado
